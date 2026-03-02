@@ -2,7 +2,7 @@
 
 ## Bike Sharing Demand Prediction using Linear Regression
  
-The goal of the project is to apply **linear regression (from scratch)** to a real-world dataset and study the impact of **data preprocessing and feature engineering**.
+The goal of the project is to apply **linear regression (from scratch)** to a real-world dataset and study the impact of **data preprocessing and feature engineering** .
 
 ---
 
